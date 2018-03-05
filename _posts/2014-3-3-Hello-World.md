@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: My First Blog Post Using Jekyll
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I could've just as easily used  HTML to create this page, but I wanted to give Jekyll a try. So far, so good. The simplicity, security, and speed of this static site generator really draws me to it. Not only does it create entirely HTML-driven sites, but they are also pre-rendered, which means less load times for visitors.
