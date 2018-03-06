@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Blogger from United States
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place where I can write freely.
 
 ### Contact me
 
