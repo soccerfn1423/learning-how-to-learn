@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I made this website to blog about the concepts and techniques we have learned in our Coursera course Learning How to Learn.
+I made this website to blog about the concepts and techniques we've learned in our Coursera course Learning How to Learn.
 
 ### More Information
 
