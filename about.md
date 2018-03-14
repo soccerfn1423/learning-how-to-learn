@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I made this website to blog about the concepts and techniques we've learned in our Coursera course Learning How to Learn.
+I made this blog to write about the concepts and techniques we've learned in our Coursera course, Learning How to Learn: Powerful mental tools to help you master tough subjects. I've learned a lot from this course by the University of California, San Diego, and I hope to keep blogging on this subject well after the end of this course.
 
 ### More Information
 
-A place where I can write freely.
+This blog was created with Jekyll, a static site generator that creates entirely HTML-driven sites. It is hosted on my project repository on GitHub Pages.
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+[soccecrfn1423@gmail.com](mailto:soccecrfn1423@gmail.com)
