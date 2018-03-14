@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Focused and Diffuse Modes of Learning
 ---
 
