@@ -8,7 +8,7 @@ I made this blog to write about the concepts and techniques we've learned in our
 
 ### More Information
 
-This blog was created with Jekyll, a static site generator that creates entirely HTML-driven sites. It is hosted on my project repository on GitHub Pages. All images used in this blog, including icons, were sourced from Pixabay and may be used freely without attribution, commercially or non-commercially, under the CC0 Creative Commons License.
+This blog was created with Jekyll, a static site generator that creates entirely HTML-driven sites. It is hosted on my project repository on GitHub Pages. Most images used in this blog, including icons, were sourced from Pixabay and may be used freely without attribution, commercially or non-commercially, under the CC0 Creative Commons License. Other images were sourced from Wikimedia Commons, under various licenses that allow free use with attribution.
 
 ### Contact
 
