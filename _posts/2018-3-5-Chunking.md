@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title: Chunking
-author: Shyam Sridhar
 published: true
 ---
 
