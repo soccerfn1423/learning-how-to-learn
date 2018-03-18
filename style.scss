@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-color: #000000;
+	background-color: $white;
   font: 18px/1.4 $helvetica;
   color: $white;
 }
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $pink;
+    color: $blue;
   }
 }
 
