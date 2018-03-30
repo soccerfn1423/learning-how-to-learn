@@ -1,6 +1,6 @@
 ---
 published: true
-author: Vladimir Nabokov
+author: false
 ---
 Foreword
 
