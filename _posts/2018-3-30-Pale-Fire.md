@@ -1,3 +1,6 @@
+---
+published: false
+---
 Foreword
 
 Pale Fire, a poem in heroic couplets, of nine hundred ninety-nine lines, divided into four cantos, was composed by John Francis Shade (born July 5, 1898, died July 21, 1959) during the last twenty days of his life, at his residence in New Wye, Appalachia, U.S.A. The manuscript, mostly Fair Copy, from which the present text has been faithfully printed, consists of eighty medium-sized index cards, on each of which Shade reserve the pink upper line for headings (canto number, date) and used the fourteen light blue lines for writing out with a fine nib in a minute, tidy, remarkably clear hand, the text of his poem, skipping a line to indicate double-space, and always using a fresh card to begin a new canto.
@@ -85,6 +88,7 @@ As to make chair and bed exactly stand
 Upon that snow, out in that crystal land!
 
 
+
 Retake the falling snow: each drifting flake
 
 Shapeless and slow, unsteady and opaque,
@@ -116,6 +120,7 @@ Finding your China right behind my house.
 Was he in Sherlock Holmes, the fellow whose
 
 Tracks pointed back when he reversed his shoes?
+
 
 
 All colors made me happy: even gray.
@@ -158,6 +163,7 @@ Has caused a fold or furrow to displace
 The fragile vista, the frame house between
 
 Goldworth and Wordsmith on its square of green.
+
 
 
 I had a favorite young shagbark there
@@ -206,6 +212,7 @@ Upward hop-flop, and instantly (to-wee)
 70 Returning to her perch--the new TV.
 
 
+
 I was an infant when my parents died.
 
 They both were ornithologists. I've tried
@@ -223,6 +230,7 @@ Such as"bad heart" always to him refer,
 And "cancer of the pancreas" to her.
 
 
+
 A preterist: one who collects cold nests.
 
 80 Here was my bedroom, now reserved for guests.
@@ -236,6 +244,7 @@ For everybody to be always well,
 Uncles and aunts, the maid, her niece Adele,
 
 Who'd seen the Pope, people in books, and God.
+
 
 
 I was brought up by dear bizarre Aunt Maud,
@@ -265,6 +274,7 @@ A curio: Red Sox Beat Yanks 5-4
 On Chapman's Homer, thumbtacked to the door
 
 
+
 My God they died young. Theolatry I found
 
 100 Degrading, and its premises, unsound.
@@ -276,6 +286,7 @@ How fully I felt nature glued to me
 And how my childish palate loved the taste
 
 Half-fish, half-honey, of that golden paste
+
 
 
 My picture book was at an early age
@@ -299,6 +310,7 @@ Which in a distant valley has been staged--
 For we are most artistically caged.
 
 
+
 And there's the wall of sound: the nightly wall
 
 Raised by a trillion crickets in the fall.
@@ -320,6 +332,7 @@ Infinite aftertime: above your head
 They close like giant wings, and you are dead.
 
 
+
 The regular vulgarian, I daresay,
 
 Is happier: He sees the Milky Way
@@ -331,6 +344,7 @@ I walked at my own risk: whipped by the bough,
 Tripped by the stump. Asthmatic, lame and fat,
 
 130 I never bounced a ball or swung a bat.
+
 
 
 I was the shadow of the waxwing slain
@@ -352,6 +366,7 @@ Upon wet sand by nonchalantly deft
 Bicycle tires.
 
 
+
                         A thread of subtle pain,
                         
 140 Tugged at by playful death, released again,
@@ -367,6 +382,7 @@ A tin wheelbarrow and pushed by a tin boy--
 Bypass chair legs and stray beneath the bed,
 
 There was a sudden sunburst in my head.
+
 
 
 And then black night. That blackness was sublime.
@@ -390,6 +406,7 @@ An icy shiver down my Age of Stone,
 And all tomorrows in my funny bone.
 
 
+
 During one winter every afternoon
 
 I'd into that momentary swoon.
@@ -409,6 +426,7 @@ And though old Doctor Colt pronounced me cured
 Of what, he said, were mainly growing pains,
 
 The wonder lingers and the shame remains.
+
 
 
 CANTO TWO
@@ -434,6 +452,7 @@ Knowing for sure what dawn, what death, what doom
 Awaited consciousness beyond the tomb?
 
 
+
 And finally there was the sleepless night
 
 When I decided to explore and fight
@@ -445,6 +464,7 @@ The foul, the inadmissible abyss,
 One task. Today I'm sixty-one. Waxwings
 
 Are berry-pecking. A cicada sings.
+
 
 
 The little scissors I am holding are
@@ -470,6 +490,7 @@ And little pinky clinging to her skirt.
 And I make mouths as I snip off the thin
 
 Strips of what Aunt Maud used to call "scarf skin."
+
 
 
 Maud Shade was eighty when a sudden hush
@@ -501,6 +522,7 @@ Spelt imploration as she sought in vain
 To reason with the monsters in her brain.
 
 
+
 What moment in the gradual decay
 
 210 Does resurrection choose? What year? What day?
@@ -526,6 +548,7 @@ Impossible, unutterably weird
 220 Wonderful nonsense it might have appeared!
 
 
+
 So why join in the vulgar laughter? Why
 
 Scorn a hereafter none can verify:
@@ -547,6 +570,7 @@ Sufficiently unlikely; for the most
 230 We can think up is a domestic ghost.
 
 
+
 How ludicrous these efforts to translate
 
 Into one's private tongue a public fate!
@@ -554,6 +578,7 @@ Into one's private tongue a public fate!
 Instead of poetry divinely terse,
 
 Disjointed notes, Insomnia's mean verse!
+
 
 
 Life is a message scribbled in the dark.
@@ -581,9 +606,11 @@ Fed the poor sea gulls!
 Dead is the mandible, alive the song.
 
 
+
 And so I pare my nails, and muse, and hear
 
 Your steps upstairs, and all is right, my dear.
+
 
 
 Sybil, throughout our high-school days I knew
@@ -615,6 +642,7 @@ Kept twitching. Then you turned and offered me
 260 A thimbleful of bright metallic tea.
 
 
+
 Your profile has not changed. The glistening teeth
 
 Biting the careful lip; the shade beneath
@@ -632,6 +660,7 @@ Of nose and eyebrow, you have kept it all--
 And on still nights we hear the waterfall.
 
 
+
 Come and be worshiped, come and be caressed,
 
 270 My dark Vanessa, crimson-barred, my blest
@@ -643,6 +672,7 @@ How could you, in the gloam of Lilac Lane,
 Have let uncouth, hysterical John Shade
 
 Blubber your face, and ear, and shoulder blade?
+
 
 
 We have been married forty years. At least
@@ -682,6 +712,7 @@ And hold her first toy on your palm, or look
 At a postcard from her, found in a book.
 
 
+
 She might have been you, me, or some quaint blend:
 
 Nature chose me so as to wrench and rend
@@ -707,6 +738,7 @@ Tennis, or badminton. Less starch, more fruit
 She may not be a beauty, but she's cute."
 
 
+
 It was no use, no use. The prizes won
 
 In French and history, no doubt, were fun;
@@ -726,6 +758,7 @@ My gentle girl appeared as Mother Time,
 A bent charwoman with a slop pail and broom,
 
 And like a fool I sobbed in the men's room.
+
 
 
 Another winter was scraped-scropped away.
@@ -773,6 +806,7 @@ A dream of gauze and jasmine, to that dance.
 We sent her, though, to a chateau in France.
 
 
+
 And she returned in tears, with new defeats,
 
 New miseries. On days when all the streets
@@ -814,6 +848,7 @@ With psoriatic fingernails, and moan,
 Murmuring dreadful words in monotone.
 
 
+
 She was my darling: difficult, morose--
 
 But still my darling. You remember those
@@ -853,6 +888,7 @@ You'd hesitate. And lustily I'd roar
 The answer from my desk through the closed door.
 
 
+
 It does not matter what it was she read
 
 (some phony modern poem that was said
@@ -868,6 +904,7 @@ Nobody cared); the point is that the three
 Now form a tryptich or a three-act play
 
 In which portrayed events forever stay.
+
 
 
 I think she always nursed a small mad hope.
@@ -911,6 +948,7 @@ To the bus stop and left; but she, instead
 Of riding home, got off at Lochanhead.
 
 
+
 You scrutinized your wrist: "It's eight fifteen.
 
 [And here time forked.] I'll turn it on." The screen
@@ -922,7 +960,6 @@ And music welled.
                      He took one look at her,
 
 And shot a death ray at well-meaning Jane.
-
 
 A male hand traced from Florida to Maine
 
@@ -969,6 +1006,7 @@ I'll catch the Exton plane, because you know
 If I don't come by midnight with the dough--"
 
 
+
 And then there was a kind of travelog:
 
 430 A host narrator took us through the fog
@@ -998,6 +1036,7 @@ The crowding gulls insufferably loud,
 And one dark pigeon waddling in the crowd.
 
 
+
 "Was that the phone?" You listened at the door.
 
 Nothing. Picked up the program from the floor.
@@ -1007,6 +1046,7 @@ More headlights in the fog. There was no sense
 In window-rubbing; only some white fence
 
 And the reflector poles passed by unmasked.
+
 
 
 "Are we quite sure she's acting right?" you asked.
@@ -1036,6 +1076,7 @@ Of corporate desire.
 "Yes, that's okay." Gripping the stang, she peered
 
 460 At ghostly trees. Bus stopped. Bus disappeared.
+
 
 
 Thunder above the Jungle. "No, not that!"
@@ -1075,6 +1116,7 @@ Emerged with his uneasy dog and went
 Along the reedy bank. He came too late.
 
 
+
 You gently yawned and stacked away your plate.
 
 We heard the wind. We heard it rush and throw
@@ -1084,6 +1126,7 @@ We heard the wind. We heard it rush and throw
 I helped you with the dishes. The tall clock
 
 Kept on demolishing young root, old rock.
+
 
 
 "Midnight," you said. What's midnight to the young?
@@ -1096,7 +1139,6 @@ And a patrol car on our bumpy road
 
 Came to a crunching stop. Retake, retake!
 
-
 People have thought she tried to cross the lake
 
 At Lochan Neck where zesty skaters crossed
@@ -1108,6 +1150,7 @@ Others supposed she might have lost her way
 By turning left from Bridgeroad; and some say
 
 She took her poor young life. I know. You know.
+
 
 
 It was a night of thaw, a night of blow,
@@ -1123,6 +1166,7 @@ The lake lay in the mist, its ice half drowned.
 A blurry shape stepped off the reedy bank
 
 500 Into a crackling, gulping swamp, and sank.
+
 
 
 CANTO THREE
@@ -1209,7 +1253,6 @@ Stored in its strongholds through the years.
 
 The Institute assumed it might be wise
 
-
 Not to expect too much of paradise:
 
 What if there's nobody to say hullo
@@ -1270,6 +1313,7 @@ Or a bear cub beneath a burning pine,
 Or a book mite in a revived divine.
 
 
+
 Time means succession, and succession, change:
 
 Hence timelessness is bound to disarrange
@@ -1313,6 +1357,7 @@ In ballerina black, why does she wear
 The earrings from the other's jewels case?
 
 And why does she avert her fierce young face?
+
 
 
 For as we know from dreams it is so hard
@@ -1374,6 +1419,7 @@ He suffocates and conjures in two tongues
 The nebulae dilating in his lungs.
 
 
+
 A wrench, a rift--that's all one can foresee.
 
 Maybe one finds le grand neant; maybe 
@@ -1419,6 +1465,7 @@ And an old Communist. Iph could at least
 Compete with churches and the party line.
 
 
+
 In later years it started to decline:
 
 Buddhism took root. A medium smuggled in
@@ -1432,6 +1479,7 @@ All is allowed, into some classes crept;
 And to fulfill the fish wish of the womb,
 
 A school of Freudians headed for the tomb.
+
 
 
 That tasteless venture helped me in a way.
@@ -1451,9 +1499,11 @@ Rise gracefully to welcome you and me
 In the dark garden, near the shagbark tree.
 
 
+
 "What is that funny creaking--do you hear?"
 
 "It is the shutter on the stairs, my dear."
+
 
 
 "If you're not sleeping, let's turn on the light.
@@ -1461,14 +1511,17 @@ In the dark garden, near the shagbark tree.
 I hate that wind! Let's play some chess." "All right."
 
 
+
 "I'm sure it's not the shutter. There--again."
 
 "It is a tendril fingering the pane."
 
 
+
 "What glided down the roof and made that thud?"
 
 660 "It is old winter tumbling in the mud."
+
 
 
 "And now what shall I do? My knight is pinned."
@@ -1478,6 +1531,7 @@ Who rides so late in the night and the wind?
 It is the writer's grief. It is the wild
 
 March wind. It is the father with his child.
+
 
 
 Later came minutes, hours, whole days at last,
@@ -1517,6 +1571,7 @@ Mars glowed. Shahs married. Gloomy Russians spied.
 Lang made your portrait. And one night I died.
 
 
+
 The Crashaw Club had paid me to discuss
 
 Why Poetry Is Meaningful To Us.
@@ -1532,6 +1587,7 @@ One of those peevish people who attend
 Such talks only to say they disagree
 
 690 Stood up and pointed his pipe at me.
+
 
 
 And then it happened--the attack, the trance,
@@ -1569,6 +1625,7 @@ Within one stem. And dreadfully distinct
 Against the dark, a tall white fountain played.
 
 
+
 I realized, of course, that it was made
 
 Not of our atoms; that the sense behind
@@ -1594,6 +1651,7 @@ Could be grasped only by whoever dwelt
 In the strange world where I was a mere stray.
 
 
+
 720 And presently I saw it melt away:
 
 Though still unconscious, I was back on earth.
@@ -1615,6 +1673,7 @@ No, Mr. Shade."
 He smiled. "Not quite: just half a shade," he said.
 
 
+
 However, I demurred. In mind I kept
 
 730 Replaying the whole thing. Again I stepped
@@ -1630,6 +1689,7 @@ But probably because the time was ripe
 For just that bump and wobble on the part
 
 Of a limp blimp, an old unstable heart.
+
 
 
 My vision reeked with truth. It had the tone,
@@ -1651,6 +1711,7 @@ Old Faithful! And its presence always would
 Console me wonderfully. Then, one day,
 
 I came across what seemed a twin display.
+
 
 
 It was a story in a magazine
@@ -1678,6 +1739,7 @@ Landscape, a hazy orchard--and I quote:
 I glimpsed a tall white fountain--and awoke."
 
 
+
 If on some nameless island Captain Schmidt
 
 760 Sees a new animal and captures it,
@@ -1695,6 +1757,7 @@ Strong as a bone, substantial as tooth,
 And almost vulgar in its robust truth!
 
 
+
 The article was by Jim Coates. To Jim
 
 Forthwith I wrote. Got her address from him.
@@ -1706,6 +1769,7 @@ Drove west three hundred miles to talk to her.
 Saw that blue hair, those freckled hands, that rapt
 
 Orchideous air--and knew that I was trapped.
+
 
 
 "Who'd miss an opportunity to meet
@@ -1735,6 +1799,7 @@ Who's climbed the Matternhorn. The other piece
 I could not understand. I mean the sense.
 
 Because, of course, the sound--But I'm so dense!"
+
 
 
 She was. I might have persevered. I might
@@ -1772,6 +1837,7 @@ There's one misprint--not that it matters much:
 Mountain, not fountain. The majestic touch."
 
 
+
 Life Everlasting--based on a misprint!
 
 I mused as I drove homeward: take the hint
@@ -1797,6 +1863,7 @@ Or correlated pattern in the game,
 Plexed artistry, and something of the same
 
 Pleasure in it as they who played it found.
+
 
 
 It did not matter who they were. No sound,
@@ -1828,6 +1895,7 @@ And vanished objects. Making ornaments
 Of accidents and possibilities.
 
 
+
 830 Stormcoated, I strode in: Sybil, it is
 
 My firm conviction--"Darling, shut the door.
@@ -1837,6 +1905,7 @@ Had a nice trip?" Splendid--but what is more
 I have returned convinced that I can grope
 
 My way to some--to some--"Yes, dear?" Faint hope.
+
 
 
 CANTO FOUR
@@ -1878,6 +1947,7 @@ And thus it physically guides the phrase
 Toward faint daylight through the inky maze.
 
 
+
 But method A is agony! The brain
 
 Is soon enclosed in a steel cap of pain.
@@ -1893,6 +1963,7 @@ Is taking off what he has just put on
 Or walking briskly to the corner store
 
 860 To buy the paper he has read before.
+
 
 
 Why is it so? Is it, perhaps, because
@@ -1918,6 +1989,7 @@ For there are those mysterious moments when
 I ambulate--and by some mute command
 
 The right word flutes and perches on my hand.
+
 
 
 My best time is the morning; my preferred
@@ -1949,6 +2021,7 @@ The Shade impress, the mystery inborn.
 Mirages, miracles, midsummer morn.
 
 
+
 Since my biographer may be too staid
 
 Or know too little to affirm that Shade
@@ -1966,6 +2039,7 @@ The shaving mirror right before his face
 And with his toe renewing tap-warmth, he'd 
 
 Sit like a king there, and like Marat bleed."
+
 
 
 The more I weigh, the less secure my skin;
@@ -1991,6 +2065,7 @@ Nine strokes are not enough. Ten. I palpate
 Through strawberry-and-cream the gory mess
 
 And find unchanged that patch of prickliness.
+
 
 
 I have my doubts about the one-armed bloke
@@ -2026,6 +2101,7 @@ As in the enlarged animated scheme
 Of whiskers mowed when held up by Our Cream.
 
 
+
 Now I shall speak of evil as none has
 
 Spoken before. I loathe such things as jazz;
@@ -2041,6 +2117,7 @@ Music in supermarkets; swimming pools;
 Brutes, bores, class-conscious Philistines, Freud, Marx
 
 930 Fake thinkers, puffed-up poets, frauds and sharks.
+
 
 
 And while the safety blade with scrap and screak
@@ -2060,9 +2137,11 @@ Old Zembla's fields where my gray stubble grows,
 And slaves make hay between my mouth and nose.
 
 
+
 Man's life as commentary to abstruse
 
 940 Unfinished poem. Note for further use.
+
 
 
 Dressing in all the rooms, I rhyme and roam
@@ -2082,6 +2161,7 @@ My versipel, is with me everywhere,
 In carrel and in car, and in my chair.
 
 
+
 And all the time, and all the time, my love
 
 950 You too are there, beneath the word, above
@@ -2099,6 +2179,7 @@ And all in you is youth, and you make new,
 By quoting them, old things I made for you.
 
 
+
 Dim Gulf was my first book (free verse); Night Rote 
 
 Came next; then Hebe's Cup, my final float
@@ -2110,6 +2191,7 @@ in that damp carnival, for now I term
 (But this transparent thingum does require
 
 Some moondrop title. Help me, Will! Pale Fire.)
+
 
 
 Gently the day has passed in a sustained
@@ -2159,6 +2241,7 @@ so this alarm clock let me set myself,
 Yawn, and put back Shade's "Poems" on their shelf.
 
 
+
 But it's not bedtime yet. The sun attains
 
 Old Dr. Sutton's last two windowpanes.
@@ -2188,6 +2271,7 @@ A man, unheedful of the butterfly--
 Some neighbor's gardener, I guess--goes by
 
 Trundling an empty barrow up the lane.
+
 
 
 Commentary
